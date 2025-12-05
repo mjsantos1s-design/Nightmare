@@ -1,0 +1,20 @@
+body img {
+    text-align: center;
+
+}
+
+body {
+    background:linear-gradient(to top,#940606 20%, #ff94a2 100%);
+    background-repeat: no-repeat;
+    background-size: fill;
+}
+
+header {
+    background-color: #b90a0a;
+    text-align: left;
+    font-size: 4em;
+}
+
+img[Nightmare] {
+    text-align: center;
+}
