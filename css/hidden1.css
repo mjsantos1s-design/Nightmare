@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    letter-spacing: 1.2em;
+    font-size: 1.4em;
+    color: rgb(194, 0, 0);
+}
+
+a {
+    text-align: center;
+    font-size: 2.6em;
+    color: rgb(194, 0, 0);
+  text-decoration: none;
+}

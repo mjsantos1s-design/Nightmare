@@ -14,6 +14,7 @@ li, main, nav, ol, p, section, span, ul {
 }
 
 footer {
-    background-color: #b90a0a;
+    background-color: #d10a0a;
     text-align: center;
+    position: sticky;
 }

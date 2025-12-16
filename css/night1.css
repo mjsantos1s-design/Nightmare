@@ -4,17 +4,27 @@ body img {
 }
 
 body {
-    background:linear-gradient(to top,#940606 20%, #ff94a2 100%);
+    background:linear-gradient(to bottom,#940606 20%, #ff94a2 100%);
     background-repeat: no-repeat;
     background-size: fill;
 }
 
 header {
-    background-color: #b90a0a;
+    background-color: #790606;
     text-align: left;
     font-size: 4em;
 }
 
-img[Nightmare] {
+herf img {
     text-align: center;
+}
+
+footer{
+
+    background-color:  #d10a0a;
+}
+
+a {
+    color: rgb(214, 206, 131);
+  text-decoration: none;
 }
