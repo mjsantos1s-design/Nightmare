@@ -1,0 +1,11 @@
+article {
+    color:rgb(230, 155, 69) ;
+    background-color: rgb(143, 32, 32);
+    padding-top: 1em;
+}
+
+header {
+    background:linear-gradient(to top,#940606 20%, #ff94a2 100%);
+    background-repeat: no-repeat;
+    background-size: fill;
+}
