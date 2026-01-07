@@ -9,3 +9,7 @@ header {
     background-repeat: no-repeat;
     background-size: fill;
 }
+
+article p {
+    padding-top: 1em;
+}
